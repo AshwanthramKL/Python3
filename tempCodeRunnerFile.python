@@ -1,3 +1,0 @@
-a, b = 1, 0
-if a and not b:
-        print(~15)
