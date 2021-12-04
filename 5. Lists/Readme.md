@@ -3,7 +3,7 @@
 A collection of items stored in a single variable.  
 
 * Built-in data type
-* Mutable.
+* Mutable - Updatable.
 * Ordered.
 * Allow duplicate values.
 
