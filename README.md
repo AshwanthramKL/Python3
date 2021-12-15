@@ -11,5 +11,7 @@ ___
 ## **Resources :**  
 
 [Python Course KodeKloud](https://kodekloud.com/courses/python-entry-level-programmer-certification)  
+[FreeCodeCamp Video - OOPS PYTHON](https://youtu.be/Ej_02ICOIgs)  
+
 
 ____
